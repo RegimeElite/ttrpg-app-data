@@ -228,22 +228,6 @@
       "weight": 4
     },
     {
-      "itemId": "15da49f3-2e22-48b8-bf86-e8bee3964e7d",
-      "equipped": false,
-      "index": "pouch",
-      "name": "pouch",
-      "source": "PHB",
-      "quantity": 1,
-      "groupIndex": 0,
-      "choiceId": "0_0",
-      "equipment_category": {
-        "index": "adventuring-gear",
-        "name": "Adventuring Gear"
-      },
-      "equipment_category_index": "adventuring-gear",
-      "weight": 1
-    },
-    {
       "itemId": "4d5eb35a-cf8f-4fb0-ac4f-583b0196bb08",
       "equipped": false,
       "index": "quill",
