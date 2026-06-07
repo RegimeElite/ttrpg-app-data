@@ -553,5 +553,13 @@
     "multiclassing": "enabled",
     "encumbranceTracking": false,
     "milestoneMode": false
-  }
+  },
+  "allies": [
+    {
+      "id": "1780807665934",
+      "name": "",
+      "type": "Ally",
+      "description": ""
+    }
+  ]
 }
