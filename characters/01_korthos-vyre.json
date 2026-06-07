@@ -114,7 +114,9 @@
       "Tools": [
         "Calligrapher's supplies"
       ],
-      "Languages": []
+      "Languages": [
+        "Common"
+      ]
     },
     "damageResistances": [
       "force"
