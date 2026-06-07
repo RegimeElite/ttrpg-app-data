@@ -33,7 +33,7 @@
     },
     "alignment": "Neutral Good",
     "xp": 0,
-    "portrait": null,
+    "portrait": "https://raw.githubusercontent.com/RegimeElite/ttrpg-app-data/main/characters/01-korthos-vyre-images/1780807786314-14369.png?v=1780807786314",
     "size": "Medium",
     "languages": [],
     "racialOptions": {
@@ -84,7 +84,18 @@
       "flaws": "I overlook obvious solutions in favor of complicated ones."
     },
     "appearance": "",
-    "backstory": "1. Origin: The Living Archive\nIn the high, wind-swept peaks of the Earthspur Mountains, you were raised among the Monks of the Yellow Rose. While other initiates spent their days in physical combat, you were a \"Scholar of the Stone.\" Your mentor, Master Montolio, recognized that your Amethyst heritage gave you a unique gift: you could \"feel\" the density of ancient objects. You spent your youth using your Calligrapher's Supplies to transcribe the Common History of the Cold Lands, specializing in Arcana to understand how magic shapes the rise and fall of civilizations.\n\n2. The Turning Point: The Pilgrimage of the Mind\nAt age 27, you reached a crossroads in your studies. You realized that the library, for all its grandeur, only records the results of history, not the feeling of it. You found a gap in the records concerning the \"Planar Bleed\" occurring across the Dalelands and Vaasa. Master Montolio didn't give you a specific mission; instead, he handed you a blank, leather-bound journal and a Quarterstaff. He told you that your \"internal gravity\" was becoming too stagnant. To improve yourself, you must leave the cloister and \"experience the friction of the world.\"\n\n3. The Goal: The Universal Balance (General)\nYour goal is to achieve Self-Improvement by experiencing every facet of the multiverse's \"resonance.\" You seek to witness history as it happens and to use your martial discipline to ensure that the balance of the world isn't tipped too far by chaos or tyranny. You travel to observe, to learn, and to lend your strength wherever the \"scales of fate\" seem unfairly weighted."
+    "backstory": "1. Origin: The Living Archive\nIn the high, wind-swept peaks of the Earthspur Mountains, you were raised among the Monks of the Yellow Rose. While other initiates spent their days in physical combat, you were a \"Scholar of the Stone.\" Your mentor, Master Montolio, recognized that your Amethyst heritage gave you a unique gift: you could \"feel\" the density of ancient objects. You spent your youth using your Calligrapher's Supplies to transcribe the Common History of the Cold Lands, specializing in Arcana to understand how magic shapes the rise and fall of civilizations.\n\n2. The Turning Point: The Pilgrimage of the Mind\nAt age 27, you reached a crossroads in your studies. You realized that the library, for all its grandeur, only records the results of history, not the feeling of it. You found a gap in the records concerning the \"Planar Bleed\" occurring across the Dalelands and Vaasa. Master Montolio didn't give you a specific mission; instead, he handed you a blank, leather-bound journal and a Quarterstaff. He told you that your \"internal gravity\" was becoming too stagnant. To improve yourself, you must leave the cloister and \"experience the friction of the world.\"\n\n3. The Goal: The Universal Balance (General)\nYour goal is to achieve Self-Improvement by experiencing every facet of the multiverse's \"resonance.\" You seek to witness history as it happens and to use your martial discipline to ensure that the balance of the world isn't tipped too far by chaos or tyranny. You travel to observe, to learn, and to lend your strength wherever the \"scales of fate\" seem unfairly weighted.",
+    "images": [
+      {
+        "id": "1780807786314",
+        "name": "14369.png",
+        "path": "characters/01-korthos-vyre-images/1780807786314-14369.png",
+        "url": "https://raw.githubusercontent.com/RegimeElite/ttrpg-app-data/main/characters/01-korthos-vyre-images/1780807786314-14369.png?v=1780807786314",
+        "type": "image/png",
+        "size": 276405,
+        "uploadedAt": "2026-06-07T04:49:46.314Z"
+      }
+    ]
   },
   "stats": {
     "abilityScores": {
