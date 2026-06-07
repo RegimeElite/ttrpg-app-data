@@ -192,7 +192,7 @@
       "index": "dart",
       "name": "Dart",
       "source": "PHB",
-      "quantity": 1,
+      "quantity": 2,
       "equipment_category": {
         "index": "ranged-weapon",
         "name": "Ranged Weapon"
