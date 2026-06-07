@@ -76,7 +76,10 @@
         "name": "Gem Flight",
         "source": "FTD"
       }
-    ]
+    ],
+    "personality": {
+      "traits": "I'm willing to listen to every side of an argument before I make my own judgment.\r\nI'm used lo helping out those who aren't as smart as I am, and I patiently explain anything and everything to others."
+    }
   },
   "stats": {
     "abilityScores": {
