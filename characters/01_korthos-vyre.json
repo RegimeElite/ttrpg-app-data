@@ -210,7 +210,13 @@
       "name": "explorer's pack",
       "quantity": 1,
       "groupIndex": 1,
-      "choiceId": "1_1"
+      "choiceId": "1_1",
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 59
     },
     {
       "itemId": "4daeefc3-32ea-46a9-96b8-7a0988ac6aea",
@@ -220,7 +226,13 @@
       "source": "PHB",
       "quantity": 1,
       "groupIndex": 0,
-      "choiceId": "0_0"
+      "choiceId": "0_0",
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 4
     },
     {
       "itemId": "15da49f3-2e22-48b8-bf86-e8bee3964e7d",
@@ -230,7 +242,13 @@
       "source": "PHB",
       "quantity": 1,
       "groupIndex": 0,
-      "choiceId": "0_0"
+      "choiceId": "0_0",
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 1
     },
     {
       "itemId": "4d5eb35a-cf8f-4fb0-ac4f-583b0196bb08",
@@ -250,7 +268,12 @@
       "quantity": 1,
       "custom": true,
       "groupIndex": 0,
-      "choiceId": "0_0"
+      "choiceId": "0_0",
+      "equipment_category": {
+        "index": "magic-item",
+        "name": "Magic Item"
+      },
+      "equipment_category_index": "magic-item"
     },
     {
       "itemId": "bfb1be28-e791-45fd-9f2c-d3722dd7112b",
@@ -280,7 +303,13 @@
       "source": "PHB",
       "quantity": 1,
       "groupIndex": 0,
-      "choiceId": "0_0"
+      "choiceId": "0_0",
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 5
     },
     {
       "itemId": "b38c18f5-4287-4409-b528-8300c3ec169c",
@@ -291,7 +320,13 @@
       "quantity": 1,
       "containsValue": 1000,
       "groupIndex": 0,
-      "choiceId": "0_0"
+      "choiceId": "0_0",
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 1
     }
   ],
   "feats": [],
