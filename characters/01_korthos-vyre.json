@@ -327,6 +327,14 @@
       },
       "equipment_category_index": "adventuring-gear",
       "weight": 1
+    },
+    {
+      "itemId": "c913979f-46f2-42e0-b763-9c88334aae8a",
+      "index": "gold-pieces",
+      "name": "Gold Pieces",
+      "quantity": 1,
+      "isCurrency": true,
+      "equipped": false
     }
   ],
   "feats": [],
