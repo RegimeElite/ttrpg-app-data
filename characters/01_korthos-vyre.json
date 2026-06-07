@@ -212,21 +212,6 @@
       "description": ""
     },
     {
-      "itemId": "4d3c0ea0-02df-4fb5-b0a8-d675eeee509a",
-      "equipped": false,
-      "index": "explorers-pack",
-      "name": "explorer's pack",
-      "quantity": 1,
-      "groupIndex": 1,
-      "choiceId": "1_1",
-      "equipment_category": {
-        "index": "adventuring-gear",
-        "name": "Adventuring Gear"
-      },
-      "equipment_category_index": "adventuring-gear",
-      "weight": 59
-    },
-    {
       "itemId": "4daeefc3-32ea-46a9-96b8-7a0988ac6aea",
       "equipped": false,
       "index": "robes",
@@ -344,6 +329,145 @@
       "isCurrency": true,
       "equipped": false,
       "attuned": false
+    },
+    {
+      "itemId": "fbc92797-c272-44a8-afff-2c2f19b2c466",
+      "index": "backpack",
+      "name": "Backpack",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false,
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 5,
+      "description": "A backpack can hold one cubic foot or 30 pounds of gear. You can also strap items, such as a bedroll or a coil of rope, to the outside of a backpack.",
+      "attuned": false,
+      "sourcePack": "explorer's pack"
+    },
+    {
+      "itemId": "412e3790-a6bb-4082-a9b5-15eded46a889",
+      "index": "bedroll",
+      "name": "Bedroll",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false,
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 7,
+      "description": "",
+      "attuned": false,
+      "sourcePack": "explorer's pack"
+    },
+    {
+      "itemId": "06e239db-d874-4580-b97f-2c8dea96ee2e",
+      "index": "mess-kit",
+      "name": "Mess Kit",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false,
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 1,
+      "description": "This tin box contains a cup and simple cutlery. The box clamps together, and one side can be used as a cooking pan and the other as a plate or shallow bowl.",
+      "attuned": false,
+      "sourcePack": "explorer's pack"
+    },
+    {
+      "itemId": "087ea7de-a094-40af-aca6-852b61908726",
+      "index": "tinderbox",
+      "name": "Tinderbox",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false,
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 1,
+      "description": "This small container holds flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torch—or anything else with abundant, exposed fuel—takes an action. Lighting any other fire takes 1 minute.",
+      "attuned": false,
+      "sourcePack": "explorer's pack"
+    },
+    {
+      "itemId": "fa44dbb0-9c8c-49aa-85d0-39968538f1a7",
+      "index": "torch",
+      "name": "Torch",
+      "source": "PHB",
+      "quantity": 10,
+      "equipped": false,
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 1,
+      "description": "A torch burns for 1 hour, providing bright light in a 20-foot radius and dim light for an additional 20 feet. If you make a melee attack with a burning torch and hit, it deals 1 fire damage.",
+      "attuned": false,
+      "sourcePack": "explorer's pack"
+    },
+    {
+      "itemId": "67cc92a7-7fa1-4f09-8f14-906cb9ae94cd",
+      "index": "rations-1-day",
+      "name": "Rations (1 day)",
+      "source": "PHB",
+      "quantity": 10,
+      "equipped": false,
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 2,
+      "description": "Rations consist of dry foods suitable for extended travel, including jerky, dried fruit, hardtack, and nuts.",
+      "attuned": false,
+      "sourcePack": "explorer's pack"
+    },
+    {
+      "itemId": "57a2988c-eb16-4aad-b846-c64a93be94f6",
+      "index": "waterskin",
+      "name": "Waterskin",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false,
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 5,
+      "description": "A waterskin can hold up to 4 pints of liquid.",
+      "attuned": false,
+      "sourcePack": "explorer's pack"
+    },
+    {
+      "itemId": "200e8b06-7db5-4af7-a649-f632d5c5dd06",
+      "index": "hempen-rope-50-feet",
+      "name": "Hempen Rope",
+      "source": "PHB",
+      "quantity": 50,
+      "quantityUnit": "ft",
+      "quantityStep": 50,
+      "originalBundleName": "Hempen Rope (50 feet)",
+      "equipped": false,
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 0.2,
+      "description": "Rope, whether made of hemp or silk, has 2 hit points and can be burst with a 17 Strength check.",
+      "attuned": false,
+      "sourcePack": "explorer's pack"
     }
   ],
   "feats": [],
