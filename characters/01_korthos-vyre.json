@@ -332,7 +332,7 @@
       "itemId": "fa875464-14a5-4e3d-a53b-72c077097752",
       "index": "gold-pieces",
       "name": "Gold Pieces",
-      "quantity": 1,
+      "quantity": 10,
       "isCurrency": true,
       "equipped": false,
       "attuned": false
